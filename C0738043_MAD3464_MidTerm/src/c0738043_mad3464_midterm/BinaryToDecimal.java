@@ -11,7 +11,7 @@ package c0738043_mad3464_midterm;
  */
 public class BinaryToDecimal {
     
-    public int BinorytoDecimal(int binary)
+    public int BinarytoDecimal(int binary)
     {
     
         int decimal = 0;
