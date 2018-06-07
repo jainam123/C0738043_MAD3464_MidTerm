@@ -11,16 +11,11 @@ package c0738043_mad3464_midterm;
  */
 public class C0738043_MAD3464_MidTerm {
 
-    /**
-     * @param args the command line arguments
-     */
-      /*public static void main(String[] args) 
-           /* {
+    
+      public static void main(String[] args) 
+           {
      
-        lambtonStringTools lst = new lambtonStringTools();
-        lst.reverse("Lambton"); 
-    }*/
-{
+        
 BinaryToDecimal btd = new BinaryToDecimal();
 
 System.out.println("Decimal of 1101 :" +btd.BinarytoDecimal(1101));
