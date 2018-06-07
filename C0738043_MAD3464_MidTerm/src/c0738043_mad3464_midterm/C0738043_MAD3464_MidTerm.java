@@ -13,7 +13,7 @@ public class C0738043_MAD3464_MidTerm {
 
     
       public static void main(String[] args) 
-           {
+           /*{
      
         
 BinaryToDecimal btd = new BinaryToDecimal();
@@ -22,4 +22,7 @@ System.out.println("Decimal of 1101 :" +btd.BinarytoDecimal(1101));
 
 
 }
-}
+}*/
+{
+   String name = "jainam bhavsar";
+  printInitials(String name);
