@@ -24,5 +24,8 @@ System.out.println("Decimal of 1101 :" +btd.BinarytoDecimal(1101));
 }
 }*/
 {
-   String name = "jainam bhavsar";
-  printInitials(String name);
+    
+}
+       Initials I = new Initials();
+       String name = "jainam bhavsar";
+       I.printInitials( name);
